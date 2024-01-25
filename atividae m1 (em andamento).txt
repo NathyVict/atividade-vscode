@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade m1</title>
+</head>
+<body>
+    <section>
+        <h3>
+            Produto
+        </h3>
+        <p>Descubra o que nosso curso oferece:</p>
+        <ul>
+            <li>
+               <img src="" alt="">
+                <h4>
+                    Módulo 1
+                </h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, ab hic! Ratione nulla est consectetur dolorum sed quos? Suscipit assumenda culpa aliquid ex nesciunt minus mollitia velit beatae veritatis eveniet.</p>
+            </li>
+            <li>
+                <img src="" alt="">
+                <h4>
+                    Módulo 2
+                </h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, ab hic! Ratione nulla est consectetur dolorum sed quos? Suscipit assumenda culpa aliquid ex nesciunt minus mollitia velit beatae veritatis eveniet.</p>
+            </li>
+            <li>
+                <img src="" alt="">
+                <h4>
+                    Módulo 3
+                </h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, ab hic! Ratione nulla est consectetur dolorum sed quos? Suscipit assumenda culpa aliquid ex nesciunt minus mollitia velit beatae veritatis eveniet.</p></li>
+            <li>
+                <img src="" alt="">
+                <h4>
+                    Módulo 4
+                </h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, ab hic! Ratione nulla est consectetur dolorum sed quos? Suscipit assumenda culpa aliquid ex nesciunt minus mollitia velit beatae veritatis eveniet.</p></li>
+        </ul>
+    </section>
+    <section>
+
+        <h3>
+            Contato
+        </h3>
+        <p>
+            Entre em contato conosco para mais informações:
+        </p>
+        <form>
+            <label for="Nome">Nome:</label>
+            <input type="text" name="Nome" id="">
+        </form>
+    </section>
+</body>
+</html>
